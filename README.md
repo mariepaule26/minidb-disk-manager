@@ -1,6 +1,6 @@
 # Mini-SGBD en Java : gestionnaire de l'espace disque
 
-Implémentation en Java de la couche la plus basse d'un système de gestion de bases de données (SGBD) : le gestionnaire de l'espace disque. Ce dépôt est réalisé dans le cadre du cours Bases de Données Avancées.
+Implémentation en Java de la couche la plus basse d'un système de gestion de bases de données (SGBD) : le gestionnaire de l'espace disque. Ce dépôt est réalisé dans le cadre de notre première séance de TP pour le compte du cours Bases de Données Avancées.
 
 ## Présentation
 
@@ -80,9 +80,9 @@ Les tests utilisent une petite taille de page (4 octets) afin de vérifier facil
 ## État d'avancement
 
 - [x] Structure du projet et interfaces
-- [ ] Implémentation du `DiskManager`
-- [ ] Suite de tests
-- [ ] Gestion des cas d'erreur (dossier inexistant, données corrompues)
+- [x] Implémentation du `DiskManager`
+- [x] Suite de tests
+- [x] Gestion des cas d'erreur (dossier inexistant, données corrompues)
 
 ## Auteurs
 - Marie-Paule Lima
