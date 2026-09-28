@@ -85,5 +85,5 @@ Les tests utilisent une petite taille de page (4 octets) afin de vérifier facil
 - [ ] Gestion des cas d'erreur (dossier inexistant, données corrompues)
 
 ## Auteurs
-Marie-Paule Lima
-Pernel Djahou
+- Marie-Paule Lima
+- Pernel Djahou
